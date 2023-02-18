@@ -56,6 +56,23 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay
 
+# Data icons
+PRODUCT_PACKAGES += \
+    AuroraDataOverlay \
+    FaintUIDataOverlay \
+    GradiconDataOverlay \
+    LornDataOverlay \
+    PlumpyDataOverlay
+    
+# Icon Data
+PRODUCT_PACKAGES += \
+    IconDataDefault \
+    IconDataFive \
+    IconDataFour \
+    IconDataOne \
+    IconDataThree \
+    IconDataTwo
+
 # Icons
 PRODUCT_PACKAGES += \
     IconPackAcherusAndroidOverlay \
