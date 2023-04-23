@@ -152,6 +152,12 @@ PRODUCT_PACKAGES += \
     ZigZagSignalOverlay \
     ZigZagWiFiOverlay
 
+# Brightness slider styles
+PRODUCT_PACKAGES += \
+    BrightnessSliderFilledOverlay \
+    BrightnessSliderThinOverlay
+
+
 # Navbar
 PRODUCT_PACKAGES += \
      NavigationBarModeGesturalOverlayFS
