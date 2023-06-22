@@ -13,7 +13,7 @@
         <shape android:shape="rectangle">
             <solid android:color="@color/offStateColor_alpha" />
             <corners android:radius="20.0dip" />
-            <stroke android:width="5.0dip" android:color="?android:^attr-private/colorSurface" android:dashWidth="10.0px" android:dashGap="10.0px" />
+            <stroke android:width="5.0dip" android:color="?androidprv:attr/colorSurface" android:dashWidth="10.0px" android:dashGap="10.0px" />
         </shape>
     </item>
 </ripple>
