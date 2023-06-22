@@ -157,6 +157,10 @@ PRODUCT_PACKAGES += \
     BrightnessSliderFilledOverlay \
     BrightnessSliderThinOverlay
 
+# QS Panel styles
+PRODUCT_PACKAGES += \
+    QspanelOverlay
+
 
 # Navbar
 PRODUCT_PACKAGES += \
