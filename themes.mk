@@ -151,6 +151,10 @@ PRODUCT_PACKAGES += \
     ZigZagSignalOverlay \
     ZigZagWiFiOverlay
 
+# QS Panel styles
+PRODUCT_PACKAGES += \
+    QspanelOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
      NavigationBarModeGesturalOverlayFS
