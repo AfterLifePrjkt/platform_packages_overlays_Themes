@@ -155,6 +155,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     QspanelOverlay
 
+# QS Tile styles
+PRODUCT_PACKAGES += \
+    RoundQSOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
      NavigationBarModeGesturalOverlayFS
