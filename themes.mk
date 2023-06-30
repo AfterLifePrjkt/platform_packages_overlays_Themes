@@ -130,12 +130,16 @@ PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+    ColorOsSignalOverlay \
+    ColorOsWiFiOverlay \
     DeepSignalOverlay \
     HuaweiSignalOverlay \
     IosSignalOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
     PillsSignalOverlay \
+    RealmeUISignalOverlay \
+    RealmeUIWiFiOverlay \
     ROGSignalOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
@@ -153,7 +157,8 @@ PRODUCT_PACKAGES += \
 
 # QS Panel styles
 PRODUCT_PACKAGES += \
-    QspanelOverlay
+    QspanelOverlay \
+    QspaneloutlineOverlay
 
 # QS Tile styles
 PRODUCT_PACKAGES += \
