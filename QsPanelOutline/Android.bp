@@ -5,6 +5,6 @@
 //
 runtime_resource_overlay {
     name: "QspaneloutlineOverlay",
-    theme: "QsPanel",
+    theme: "QsPanelOutline",
     product_specific: true,
 }
